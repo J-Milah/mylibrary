@@ -29,6 +29,14 @@
       display: none; /* Hide scrollbar */
     /*}*/
     
+    .header {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 20px;
+      position: relative;
+    }
+
     .dots {
       position: absolute;
       left: 0;
